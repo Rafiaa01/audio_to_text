@@ -1,0 +1,3 @@
+elevenlabs
+deepgram-sdk
+python-dotenv
